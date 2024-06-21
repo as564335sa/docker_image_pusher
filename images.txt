@@ -7,3 +7,4 @@ nyanmisaka/jellyfin
 corentinth/it-tools
 helloz/onenav
 vaultwarden/server
+python:3.11.9-alpine
